@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1536" viewBox="0 0 1024 1536">
+<defs><radialGradient id="rim" cx=".5" cy=".35" r=".6"><stop offset="0" stop-color="#2a1416"/><stop offset="1" stop-color="#120c0d"/></radialGradient>
+<linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#ef4151" stop-opacity=".85"/><stop offset=".2" stop-color="#ef4151" stop-opacity="0"/><stop offset=".8" stop-color="#ef4151" stop-opacity="0"/><stop offset="1" stop-color="#ef4151" stop-opacity=".55"/></linearGradient></defs>
+<g>
+<path d="M512 250c-110 0-185 88-185 205 0 92 40 170 95 214v62c-150 30-300 110-340 300-18 85-22 300-22 505h904c0-205-4-420-22-505-40-190-190-270-340-300v-62c55-44 95-122 95-214 0-117-75-205-185-205z" fill="url(#rim)"/>
+<path d="M512 250c-110 0-185 88-185 205 0 92 40 170 95 214v62c-150 30-300 110-340 300-18 85-22 300-22 505h904c0-205-4-420-22-505-40-190-190-270-340-300v-62c55-44 95-122 95-214 0-117-75-205-185-205z" fill="url(#edge)"/>
+</g>
+<text x="512" y="900" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#f2efeb" fill-opacity=".55" letter-spacing="4">YOUR PHOTO HERE</text>
+<text x="512" y="950" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#f2efeb" fill-opacity=".35">Upload a cut-out portrait in the dashboard</text>
+</svg>
